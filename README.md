@@ -1,4 +1,4 @@
-# 18.03
+# 18.03 - Differential Equations
 
 ## [Course URL](https://learning.edx.org/course/course-v1:MITx+18.031x+2T2021/home) - Paid Certificate Version
 
