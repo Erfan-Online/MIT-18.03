@@ -4,10 +4,10 @@
 
 ### edX Units
 - [x] Unit 1
-- [ ] Unit 2
+- [x] Unit 2
   * A Minor stop at 5 Homogeneous 2nd Order Linear ODEs with Constant Coefficients - 6. Characteristic polynomial to meet Unit 3's deadline. (Watched the videos tho.)
 - [x] Unit 3 (Graded for the first time!)
-- [ ] Unit 4
+- [x] Unit 4
 - [ ] Unit 5
 
 ## YouTube Lectures
