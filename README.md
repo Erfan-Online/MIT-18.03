@@ -8,7 +8,7 @@
   * A Minor stop at 5 Homogeneous 2nd Order Linear ODEs with Constant Coefficients - 6. Characteristic polynomial to meet Unit 3's deadline. (Watched the videos tho.)
 - [x] Unit 3 (Graded for the first time!)
 - [x] Unit 4
-- [ ] Unit 5 (At recitation 13, deadline was extended to Sept. 1st so I might come back to it a bit later)
+- [x] Unit 5
 
 ## YouTube Lectures
 * Currently on Lecture 5/33. (Ahead of that since I watched snippets from the edX catalogue)
