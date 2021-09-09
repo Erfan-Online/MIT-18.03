@@ -9,7 +9,3 @@
 - [x] Unit 3 (Graded for the first time!)
 - [x] Unit 4
 - [x] Unit 5
-
-## YouTube Lectures
-* Currently on Lecture 5/33. (Ahead of that since I watched snippets from the edX catalogue)
-
