@@ -1,4 +1,4 @@
-# 18.03 - Differential Equations
+# 18.031x - Differential Equations
 
 ## [Course URL](https://learning.edx.org/course/course-v1:MITx+18.031x+2T2021/home) - Certified Version
 ## [Certificate](https://github.com/Erfan-Online/MIT-18.03/raw/main/Certificate.pdf)
