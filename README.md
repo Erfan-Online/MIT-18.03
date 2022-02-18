@@ -6,6 +6,6 @@
 ### edX Units
 - [x] Unit 1
 - [x] Unit 2
-- [x] Unit 3 (Graded for the first time!)
+- [x] Unit 3
 - [x] Unit 4
 - [x] Unit 5
